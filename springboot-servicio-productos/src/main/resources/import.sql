@@ -1,0 +1,10 @@
+INSERT INTO productos(nombre, precio, create_at) values ('Producto 1', 800, NOW());
+INSERT INTO productos(nombre, precio, create_at) values ('Producto 2', 650, NOW());
+INSERT INTO productos(nombre, precio, create_at) values ('Producto 3', 550, NOW());
+INSERT INTO productos(nombre, precio, create_at) values ('Producto 4', 870, NOW());
+INSERT INTO productos(nombre, precio, create_at) values ('Producto 5', 940, NOW());
+INSERT INTO productos(nombre, precio, create_at) values ('Producto 6', 320, NOW());
+INSERT INTO productos(nombre, precio, create_at) values ('Producto 7', 875, NOW());
+INSERT INTO productos(nombre, precio, create_at) values ('Producto 8', 858, NOW());
+INSERT INTO productos(nombre, precio, create_at) values ('Producto 9', 810, NOW());
+INSERT INTO productos(nombre, precio, create_at) values ('Producto 10', 578, NOW());
